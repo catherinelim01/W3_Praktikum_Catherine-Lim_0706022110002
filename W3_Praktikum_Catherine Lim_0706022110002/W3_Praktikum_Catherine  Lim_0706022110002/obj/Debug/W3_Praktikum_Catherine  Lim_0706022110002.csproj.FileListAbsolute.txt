@@ -1,0 +1,11 @@
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\bin\Debug\W3_Praktikum_Catherine  Lim_0706022110002.exe.config
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\bin\Debug\W3_Praktikum_Catherine  Lim_0706022110002.exe
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\bin\Debug\W3_Praktikum_Catherine  Lim_0706022110002.pdb
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine  Lim_0706022110002.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine__Lim_0706022110002.FormPenambahanData.resources
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine__Lim_0706022110002.FormTampilanData.resources
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine__Lim_0706022110002.Properties.Resources.resources
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine  Lim_0706022110002.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine  Lim_0706022110002.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine  Lim_0706022110002.exe
+D:\Kuliah\Semester 2 (2022)\Application Development\W3_Praktikum_Catherine  Lim_0706022110002\W3_Praktikum_Catherine  Lim_0706022110002\obj\Debug\W3_Praktikum_Catherine  Lim_0706022110002.pdb
